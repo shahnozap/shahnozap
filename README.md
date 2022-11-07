@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shark
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python, tools on Data Analysis for beginners
+- 📫 How to reach me shakhnozap@snu.ac.kr
